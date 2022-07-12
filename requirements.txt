@@ -5,3 +5,4 @@ click~=8.0.3
 tqdm~=4.62.3
 web3~=5.25.0
 pytest~=6.2.5
+binance-connector
